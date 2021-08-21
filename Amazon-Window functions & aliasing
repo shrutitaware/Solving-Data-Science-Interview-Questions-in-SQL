@@ -27,5 +27,5 @@ WINDOW w AS (order by to_char(cast(created_at as date),'YYYY-MM'))
 order by year_month
 
 
-https://www.youtube.com/watch?app=desktop&v=QenwDm5oWdU&t=236s
-https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?python&utm_source=youtube&utm_medium=click&utm_campaign=YT+description+link
+(https://www.youtube.com/watch?app=desktop&v=QenwDm5oWdU&t=236s)
+(https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?python&utm_source=youtube&utm_medium=click&utm_campaign=YT+description+link)
