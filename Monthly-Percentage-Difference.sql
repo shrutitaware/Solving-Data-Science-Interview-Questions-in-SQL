@@ -1,7 +1,7 @@
 [YouTube - Nate at StrataScratch] (https://www.youtube.com/watch?app=desktop&v=QenwDm5oWdU&t=236s)
 [Coding Platform] (https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?python&utm_source=youtube&utm_medium=click&utm_campaign=YT+description+link)
 /*
-# Monthly Percentage Difference
+# Monthly Percentage Difference- Amazon-Hard
 
 Given a table of purchases by date, calculate the month-over-month percentage change in revenue. The output should include the year-month date (YYYY-MM) and 
 percentage change, rounded to the 2nd decimal point, and sorted from the beginning of the year to the end of the year.
